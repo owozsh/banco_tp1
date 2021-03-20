@@ -1,5 +1,6 @@
-include <stdio.h>
-int main {
+#include <stdio.h>
+
+int main() {
 
     float lado_cubo;
 

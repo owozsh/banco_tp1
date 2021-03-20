@@ -9,5 +9,5 @@ int main() {
 
     float area = lado_cubo * lado_cubo * lado_cubo;
 
-    printf("O lado do cubo é %.2f", lado_cubo);    
+    printf("A area e %.2f", area);    
 }
